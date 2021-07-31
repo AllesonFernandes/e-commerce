@@ -25,3 +25,15 @@ justify-content: space-between;
     width: 1200px;
     margin: 0 auto;
 }
+
+.navbar{
+    width: 350px;
+    background-color: blue;
+    padding: 24px;
+}
+
+.feed{
+    background-color: yellow;
+    width: 100%;
+    padding: 24px;
+}

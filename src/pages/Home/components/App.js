@@ -1,14 +1,15 @@
 import './main.css';
 
+
 function App() {
   return (
     <div>
       <header className='header'>
         <div className='toolbar'>
           <div className=''>
-            <span>Café mídia</span>
+            <a href='/'>Café mídia</a>
           </div>
-          <div className=''>
+          <div>
             <button>Cadastro</button>
             <span>img1</span>
             <span>img2</span>
